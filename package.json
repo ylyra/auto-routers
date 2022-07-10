@@ -26,9 +26,11 @@
     "auto-gen": "./bin/index.js"
   },
   "dependencies": {
+    "chokidar": "^3.5.3",
     "yargs": "^17.5.1"
   },
   "devDependencies": {
+    "@types/yargs": "^17.0.10",
     "cz-conventional-changelog": "3.3.0"
   },
   "config": {
