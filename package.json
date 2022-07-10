@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "chokidar": "^3.5.3",
+    "react-router-dom": "^6.3.0",
     "yargs": "^17.5.1"
   },
   "devDependencies": {
