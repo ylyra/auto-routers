@@ -1,5 +1,5 @@
 {
-  "name": "@lyra/auto-routes",
+  "name": "@lyra/auto-routers",
   "version": "0.0.1",
   "private": true,
   "license": "MIT",
@@ -23,7 +23,7 @@
     "build": "tsc"
   },
   "bin": {
-    "auto-gen": "./bin/index.js"
+    "auto-routers": "./bin/index.js"
   },
   "dependencies": {
     "chokidar": "^3.5.3",
