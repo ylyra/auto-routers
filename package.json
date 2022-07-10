@@ -1,7 +1,7 @@
 {
   "name": "@lyra/auto-routers",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "license": "MIT",
   "types": "index.d.ts",
   "author": {
