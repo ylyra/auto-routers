@@ -1,5 +1,5 @@
 {
-  "name": "@lyra/auto-routers",
+  "name": "auto-routers",
   "version": "0.0.1",
   "private": false,
   "license": "MIT",
@@ -7,15 +7,15 @@
   "author": {
     "name": "Yan Lyra",
     "email": "yanlyra3@gmail.com",
-    "url": "https://pagination.yanlyra.dev"
+    "url": "https://auto-routers.yanlyra.dev"
   },
   "bugs": {
-    "url": "https://github.com/ylyra/pagination",
+    "url": "https://github.com/ylyra/auto-routers",
     "email": "yanlyra3@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ylyra/pagination"
+    "url": "https://github.com/ylyra/auto-routers"
   },
   "description": "auto generate routes to react project created with cra or vite",
   "main": "bin/index.js",
