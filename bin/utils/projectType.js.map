@@ -1,1 +1,0 @@
-{"version":3,"file":"projectType.js","sourceRoot":"","sources":["../../src/utils/projectType.ts"],"names":[],"mappings":";;;AAEA,SAAgB,eAAe,CAAC,cAA4B;IAC1D,IAAI,cAAc,CAAC,eAAe,CAAC,MAAM,CAAC,EAAE;QAC1C,OAAO;YACL,GAAG,EAAE,MAAM;YACX,KAAK,EAAE,mBAAmB;SAC3B,CAAC;KACH;IAED,OAAO;QACL,GAAG,EAAE,qBAAqB;QAC1B,KAAK,EAAE,qBAAqB;KAC7B,CAAC;AACJ,CAAC;AAZD,0CAYC"}
